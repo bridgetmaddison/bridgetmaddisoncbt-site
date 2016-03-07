@@ -2,17 +2,68 @@
 	<body>
 		{{ partial "nav.html" . }}
 
+
+				<img src="{{ .Site.BaseURL }}/img/{{ .Site.Params.headerImage }}" style="width: 100%; height: auto; background-size: cover;"/>
 		<div class="content">
 			<div class="home">
 
-				{{ if isset .Site.Params "headerText" }}
-				<div class="call-out" style="background-image: url('{{ .Site.BaseURL }}/img/{{ .Site.Params.headerImage }}')">
-					{{ .Site.Params.headerText | markdownify }}
-				</div>
-				{{ end }}
+				<article>
+					<header>
+						<h1 class="title">Bridget Maddison CBT</h1>
+					</header>
+				<section class="post-content">
+<p>
+<strong>In today's modern world with life's many competing pressures and unwanted
+changes, it's not unusual to feel worn down, overwhelmed, stressed, and
+worried. You may feel like you are just existing, caught up in self defeating
+behaviours or avoidance, struggling to get out of your head and on with your
+life. I believe I can help.</strong>
+</p>
 
-				{{ partial "post-list.html" . }}
-				{{ partial "pagination.html" . }}
+<img src="{{ .Site.BaseURL }}/img/bmaddisoncbt2.jpg" style="width: 30%; height: auto; display: block; margin: 0 auto;" />
+
+<p>
+I am an experienced and <strong>Accredited (BABCP) Cognitive Behavioural
+  Psychotherapist, I am also a Registered Mental Health Nurse</strong>. I have been
+privileged to work with many people, empowering them to gain the skills and
+strategies required to work through their problems. I work from the Wellbeing
+Centre in Malvern, Worcestershire.
+</p>
+
+<p>
+<strong>Cognitive and Behavioural Therapy (CBT)</strong> is a scientifically proven talking
+therapy that can help people with a wide range of difficulties. It is
+recommended in the NICE guidelines (National Institute for Clinical
+Excellence) as an effective treatment for Anxiety based problems and
+Depression. CBT explores how your thoughts, beliefs and attitudes impacts on
+what you do and feel and how a greater understanding of these cycles and
+processes can lead you towards solutions and change. CBT tends to be more
+focused on the present but might also look at your past to help you
+understand how your past impacts on the present.
+</p>
+
+<p>
+Over recent years I have been increasingly drawn to <strong>Acceptance and
+Commitment Therapy (ACT)</strong>. This falls under the 'umbrella' of CBT and is
+often referred to as one of the 'third wave' family of Cognitive Behavioural
+Therapies. What I love about ACT and why I've begun to use it more in my 
+Practice, is that alongside its growing evidence base and great feedback from 
+patients, I know how much more prepared I am myself to handle life's 
+challenges, through using these skills and ideas!</p>
+
+<p>
+<strong>
+I hope you will take the time to have a look through my website, to find out 
+more about Cognitive Behavioural Therapy and me. If you feel this approach 
+might be for you, please <a href="{{ .Site.BaseURL }}contact">contact me</a> and take that first step towards us 
+working together to get your life back on track.
+</strong>
+</p>
+
+				</section>
+
+			</article>
+
 
 				{{ partial "footer.html" . }}
 

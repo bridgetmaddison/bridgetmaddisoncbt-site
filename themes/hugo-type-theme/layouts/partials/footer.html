@@ -1,5 +1,5 @@
 <footer class="site-footer">
-	<p class="text">&copy; {{ .Now.Format "2006" }} - {{ .Site.Params.copyright | markdownify }}</p>
+  <p class="text">&copy; {{ .Now.Format "2006" }} - {{ .Site.Params.copyright | markdownify }}. <a href='{{ ref . "about-this-site.md" }}'>About this site</a></p>
 </footer>
 
 {{ template "_internal/google_analytics.html" . }}
