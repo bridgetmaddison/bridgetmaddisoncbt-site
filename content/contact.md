@@ -17,13 +17,20 @@ broad understanding of what you want to work on and whether I can help. It will
 also give you the opportunity to ask any questions and get a sense of whether
 you feel we can work together before committing to your first appointment.
 Feel free to call me, or if you prefer email me a summary of your current 
-problem and we can take it from there.
+problem and we can take it from there. You can also fill out the contact form 
+below.
 
 I will endeavour to get back to you as soon as I can.
 
 Phone: 07752 199258
 
 Email: contact@bridgetmaddisoncbt.co.uk
+
+
+<iframe 
+src="https://docs.google.com/forms/d/1nHvkFc7cPkGPb0PiaDYbWHIcL-P60IiLBME4lXQ97ok/viewform?embedded=true" 
+width="100%" height="500" frameborder="0" marginheight="0" 
+marginwidth="0">Loading...</iframe>
 
 
 Ready to go ahead and make an appointment? Please feel free to contact the Centre for Wellbeing direct to book an appointment.
