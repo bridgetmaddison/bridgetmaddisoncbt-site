@@ -6,7 +6,7 @@ featureimage = ""
 menu = "nav"
 weight = 1
 tags = []
-title = "More about CBT and ACT"
+title = "More about ACT"
 
 +++
 
