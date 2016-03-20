@@ -89,3 +89,35 @@ experience this work also helps people appreciate what they already have in
 their lives right now. ACT is also a really practical therapy of change so
 if moving forward involves learning new skills or solving problems we can
 consider this too.
+
+## Mindfulness and ACT
+Here is a little more information on how mindfulness is used in Acceptance and Commitment Therapy.
+
+It tends to be more 'bite-sized' based on research that shows that even brief
+periods of regular mindfulness practice (5- 10 mins or just mini mindful
+moments!) can still be beneficial and help us to 'rewire' our brain. 
+
+<blockquote>While many people think mindfulness means meditation, this is not the case.
+Mindfulness is a mental state of openness, awareness and focus, and meditation
+is just one way amongst hundreds of learning to cultivate this 
+state.</blockquote>
+_Russ Harris_
+
+ACT breaks Mindfulness down into 4 key skills:
+
+1. Defusion - distancing from and letting go of unhelpful thoughts, beliefs,
+memories, images, rules for living etc.
+
+
+2. Willingness - making room for painful feelings, urges and sensations, and
+allowing them to come and go without a struggle.
+
+
+3. Contact with the present moment: engaging fully with our here and now
+experience, with an attitude of openness and curiosity. Getting better at being
+connected to the here and now and the things we value.
+
+4. Being the Observer of our experience so we are no longer defined by it. Not
+caught up in unhelpful stories of ourselves based on our past or our fears.
+
+
