@@ -22,9 +22,9 @@ below.
 
 I will endeavour to get back to you as soon as I can.
 
-Phone: 07752 199258
+Phone: **07752 199258**
 
-Email: contact@bridgetmaddisoncbt.co.uk
+Email: <contact@bridgetmaddisoncbt.co.uk>
 
 
 <iframe 
@@ -37,7 +37,7 @@ Ready to go ahead and make an appointment? Please feel free to contact the Centr
 
 Website:    [centreforwellbeing.co.uk](http://centreforwellbeing.co.uk/)
 
-Phone:     01684 574888
+Phone:     **01684 574888**
 
 The Centre for Wellbeing  
 52 Malvern Road  
@@ -46,7 +46,7 @@ WR14 3PP
 
 Fees:    £60 per Therapy hour (55 mins) Payment by cash, cheque, or Paypal
 
-## Cancellations or non attendance
+#### Cancellations or non attendance
 Please to get in touch as soon as possible if you are unable to attend. For less than 24 hours notice I would ask you to pay 50% of the session fee.
 
 
