@@ -6,20 +6,40 @@ featureimage = ""
 menu = "nav"
 weight = 1
 tags = []
-title = "More about ACT"
+title = "More about CBT and ACT"
 
 +++
 
+
+<img src="/img/change_clouds.jpg" style="width: 60%; height: auto; 
+background-size: cover;"/>
+
+## More about CBT
+
+**Cognitive and Behavioural Therapy (CBT)** is a scientifically proven talking
+therapy that can help people with a wide range of difficulties. It is
+recommended in the NICE guidelines (National Institute for Clinical Excellence)
+as an effective treatment for Anxiety based problems and Depression. CBT
+explores how your thoughts, beliefs and attitudes impacts on what you do and
+feel and how a greater understanding of these cycles and processes can lead you
+towards solutions and change. CBT tends to be more focused on the present but
+might also look at your past to help you understand how your past impacts on
+the present. Find out more about the problems that can be effectively treated
+with CBT under [About You]({{< ref "about-you.md" >}}).
+
+Over recent years I have been increasingly drawn to **Acceptance and Commitment
+Therapy (ACT)**. This falls under the 'umbrella' of CBT and is often referred to
+as one of the 'third wave' family of Cognitive Behavioural Therapies. What I
+love about ACT and why I've begun to use it more in my Practice, is that
+alongside its growing evidence base and great feedback from patients, I know
+how much more prepared I am myself to handle life's challenges, through using
+these skills and ideas! It is also particularly helpful when you are
+experiencing a number of problems at the same time or your problems are
+longstanding.
+
 ## What is Acceptance and Commitment Therapy?
 
-In a nutshell:
-
-**A** = Accept your thoughts and feelings and be present (accept them    through learning to handle them!)
-
-**C** = Connect with your Values
-
-**T** = Take effective Action
-
+<img src="/img/acthands.jpg" style="width: 40%; height: auto; background-size: cover;"/>
 
 **Acceptance and Commitment Therapy gets its name from its main themes** - to
 accept things that are out of your control and commit to changing things
