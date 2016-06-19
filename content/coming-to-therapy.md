@@ -64,5 +64,24 @@ her, go and see her, you will be so thankful you did!
 
 _Lucy, Worcestershire_
 
+<blockquote>
+<p>
+I want to thank you for the time that you have given to me over the last
+months.
+</p>
 
+<p>
+This is the first time that I have needed professional help. When I first came
+to you I could not envisage a positive outcome or a time when I would be able
+to return to my old self.  However, thanks to your wise counsel,  vision,
+support and teaching I now have many new skills developed during our CBT
+sessions that I use daily. I  truly believe that I will not be returning to my
+old self but in fact a new, better and more fulfilled self.
+</p>
 
+<p>
+Bridget, my family and I are eternally grateful to you for our time together.
+</p>
+</blockquote>
+
+_June 2016_
