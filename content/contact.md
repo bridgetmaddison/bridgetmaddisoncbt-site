@@ -33,7 +33,8 @@ width="100%" height="500" frameborder="0" marginheight="0"
 marginwidth="0">Loading...</iframe>
 
 
-Ready to go ahead and make an appointment? Please feel free to contact the Centre for Wellbeing direct to book an appointment.
+Sessions to take place at the Centre for Wellbeing, please feel free to 
+contact them direct to book an appointment.
 
 Website:    [centreforwellbeing.co.uk](http://centreforwellbeing.co.uk/)
 
@@ -44,7 +45,8 @@ The Centre for Wellbeing
 Malvern  
 WR14 3PP
 
-Fees:    £60 per Therapy hour (55 mins) Payment by cash, cheque, or Paypal
+Fees:    £65 per Therapy hour (55 mins) Payment by debit/credit card, cash, 
+cheque, brank transfer, or Paypal invoice.
 
 #### Cancellations or non attendance
 Please to get in touch as soon as possible if you are unable to attend. For less than 24 hours notice I would ask you to pay 50% of the session fee.

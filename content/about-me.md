@@ -13,9 +13,8 @@ title = "About me"
 ## Referrals
 
 
-I accept referrals from: individuals, GPs, Employment Assistance Programmes,
-and Insurance Providers (I am in the process of registering with these
-organisations)
+I accept referrals from: individuals, GP’s, Psychiatrists, Bupa, Vitality 
+Health, Aviva, CBT Services.
 
 
 ## Current

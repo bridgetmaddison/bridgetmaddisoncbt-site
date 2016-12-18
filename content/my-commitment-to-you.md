@@ -10,6 +10,9 @@ title = "My commitment to you"
 
 +++
 
+I have an Enhanced DBS Status (Disclosure and Barring Service, formerly CRB 
+Criminal Record Bureau Check). This is renewed annually.
+
 ## Professional Bodies
 I will uphold the requirements of Accreditation by the British Association of
 Cognitive and Behavioural Psychotherapists (BABCP) and Registration by the
