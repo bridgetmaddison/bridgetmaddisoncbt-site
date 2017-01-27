@@ -41,7 +41,7 @@ Website:    [centreforwellbeing.co.uk](http://centreforwellbeing.co.uk/)
 Phone:     **01684 574888**
 
 The Centre for Wellbeing  
-52 Malvern Road  
+52 St Andrew's Road  
 Malvern  
 WR14 3PP
 
