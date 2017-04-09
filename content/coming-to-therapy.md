@@ -51,6 +51,23 @@ prescribed for mood management.
 ## Testimonials
 
 <blockquote>
+<p>
+I would highly recommend Bridget to anyone considering CBT counselling. She 
+has really helped me to better understand myself and has given me a virtual 
+bag of tools with which to move forward with confidence and choose how to be.
+Her manner is very supportive and non- judgemental and I found it very easy to 
+understand the concepts and incorporate
+them into daily life. If, as they say, life is a journey, my experience with 
+Bridget was like picking up a map and a compass after storms had beaten me 
+down. It doesn't change the weather or the boat you are in, but you have some 
+tools to allow you to choose how get you where, and how, you would like to 
+be.
+</p>
+</blockquote>
+
+_March 2017_
+
+<blockquote>
 Having suffered with OCD for 20 years I sought Cognitive Behavioural Therapy 
 and Bridget came into my life as a blessing! She handled my situation with 
 great care and empathy and used her extensive skills to teach me and guide me 
