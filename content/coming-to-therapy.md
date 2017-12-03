@@ -48,6 +48,31 @@ background enables me to offer an holistic approach to your difficulties,
 taking into account physical health conditions and the role of medications
 prescribed for mood management.
 
+## Terms of business
+
+### Fees
+* Initial consultation - brief phone-call, message, email: No charge.
+* £65 per Therapy Hour (55 mins) face to face, 5 minutes for endings, payment,
+rebooking.
+* To be paid at end of session
+
+**Sessions funded by Health Insurance Companies may be subject to a
+different fee as agreed with individual organisations.**
+
+**Method of Payment**: Credit or Debit Card (via card reader), Cheque, (made
+payable to Bridget Maddison), Cash, Bank Transfer, Paypal Invoice via email (you
+don't need a Paypal account for this).
+
+### Missed or cancelled appointments
+
+Please to get in touch as soon as possible if you are unable to attend, so I can offer
+the slot to someone else. For less than 24 hours notice I would ask you to pay 50%
+of the session fee.
+
+### Late arrival
+If you come late to session, I may not be able to see you for longer to make up the
+time, so we might need to have a shorter session.
+
 ## Testimonials
 
 <blockquote>

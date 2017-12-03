@@ -13,19 +13,17 @@ title = "About me"
 ## Referrals
 
 
-I accept referrals from: individuals, GP’s, Psychiatrists, Bupa, Vitality 
-Health, Aviva, CBT Services.
+I accept referrals from: individuals, GPs, Psychiatrists, Bupa, Vitality 
+Health, Aviva, Nuffield Health.
 
 
 ## Current
 
 
-I have been working within Adult Primary Care Mental Services for just over 10
+I have been working within Adult Primary Care Mental Services for just over 11
 years, completing my Postgraduate Qualification in CBT in 2010. I now share my
 time between NHS based work and offering two days of Private Practice from the
-Wellbeing Centre In Malvern, Worcestershire.  I work on Friday and Saturday
-Mornings, seeing people from aged 16 upwards.
-
+Wellbeing Centre In Malvern, Worcestershire.
 
 Alongside my individual work with patients, I am a Clinical Supervisor within 
 the NHS and as an external Supervisor privately.  I am also involved with the 
