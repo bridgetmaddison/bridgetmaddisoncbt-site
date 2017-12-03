@@ -10,7 +10,7 @@ title = "Useful links"
 
 +++
 
-## Reading material
+## Online resources
 
 * [What is CBT 
 (MIND)](http://www.mind.org.uk/information-support/drugs-and-treatments/cognitive-behavioural-therapy-cbt/#.VttCEFuLSVM)
@@ -18,6 +18,16 @@ title = "Useful links"
 website from Russ Harris, the author of The Happniess Trap (a popular 
 self-help book). You can download the first 2 chapters of this book
 for free.
+* [Embracing Your Demons: An Overview of Acceptance and Commitment Therapy](https://www.actmindfully.com.au/upimages/Dr_Russ_Harris_-_A_Non-technical_Overview_of_ACT.pdf).
+* [The Compassionate Mind Foundation](https://compassionatemind.co.uk/).
+Compassionate focused audio and video available.
+* [Headspace Take 10](https://www.headspace.com). Mindfulness app, 10 days of 
+mindfulness for free.
+* [Mrs Mindfulness](https://mrsmindfulness.com/). Australian-based mindfulness 
+website by Melli O'Brien.
+* [Free meditations from
+Mindfulness](http://franticworld.com/free-meditations-from-mindfulness/). Free
+mindfulness audio to download by Mark Williams and Danny Penman
 
 ## Videos
 
@@ -34,6 +44,7 @@ Commitment Therapy.
 Life](https://www.youtube.com/watch?v=eiPxLpYlw4I)
 * [The Choice Point](https://www.youtube.com/watch?v=bSpPgL3VaHI)
 * [Psychological flexibility: How love turns pain into purpose](https://www.youtube.com/watch?v=o79_gmO5ppg)
+* [The Happiness Trap: Evolution of the Human Mind](https://www.youtube.com/watch?v=kv6HkipQcfA)
 
 ### Self compassion
 
@@ -47,10 +58,21 @@ Life](https://www.youtube.com/watch?v=-kfUE41-JFw)
 * [Why Mindfulness is a 
 Superpower](https://www.youtube.com/watch?v=w6T02g5hnT4)
 * [An Introduction to 
-Mindfulness](http://mrsmindfulness.com/what-is-mindfulness/).
+Mindfulness](http://mrsmindfulness.com/what-is-mindfulness/)
 * [What is Mindfulness](https://www.youtube.com/watch?v=HmEo6RI4Wvs)
 * [How to Meditate Anytime, 
 Anywhere](http://www.huffingtonpost.com/entry/a-tibetan-buddhist-masters-simple-guide-to-meditation_us_57850a79e4b07c356cfe8158)
 * [Mindfulness and How the Brain 
 Works](https://www.youtube.com/watch?v=aNCB1MZDgQA)
+
+## Books
+* **The Little ACT Workbook - An Introduction to Acceptance and Commitment Therapy**, Michael
+Sinclair and Dr Matthew Beadman, 2016
+* **The Happiness Trap**, Russ Harris, 2008. A best selling introduction to ACT (also - The
+Illustrated Happiness Trap, The Happiness Trap Pocketbook, concise versions of the main text)
+* **Activate your life - Using Acceptance and Mindfulness to build a life that is rich, fulfilling and
+fun**, Joe Oliver, Jon Hill, Eric Morris, 2015. Develop your Open, Aware, and Active skills.
+* **Living with the Enemy**, Ray Owen, 2013. Coping with the stress of chronic illness using CBT,
+Mindfulness and Acceptance.
+* **A Mindfulness Guide for the Frazzled**, Ruby Wax, 2008.
 
