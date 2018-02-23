@@ -79,4 +79,6 @@ fun**, Joe Oliver, Jon Hill, Eric Morris, 2015. Develop your Open, Aware, and Ac
 * **Living with the Enemy**, Ray Owen, 2013. Coping with the stress of chronic illness using CBT,
 Mindfulness and Acceptance.
 * **A Mindfulness Guide for the Frazzled**, Ruby Wax, 2008.
+* **The Compassionate Mind Workbook: A step-by-step guide to developing your 
+compassionate self**, Chris Irons, 2016
 
