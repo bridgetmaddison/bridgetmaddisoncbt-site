@@ -20,16 +20,15 @@ Health, Aviva, Nuffield Health.
 ## Current
 
 
-I have been working within Adult Primary Care Mental Services for just over 11
+I have been working within Adult Primary Care Mental Services for just over 12
 years, completing my Postgraduate Qualification in CBT in 2010. I now share my
-time between NHS based work and offering two days of Private Practice from the
+time between NHS based work and offering three mornings of Private Practice from the
 Wellbeing Centre In Malvern, Worcestershire.
 
 Alongside my individual work with patients, I am a Clinical Supervisor within 
-the NHS and as an external Supervisor privately.  I am also involved with the 
-development and facilitation of group-work programmes, most recently devising 
-and delivering Acceptance and Commitment Therapy groups, within the NHS.
-
+the NHS. I am also involved with the development and facilitation of 
+group-work programmes, most recently devising and delivering Acceptance and 
+Commitment Therapy groups within the NHS.
 
 I have a continuing commitment to best practice and regularly attend workshops 
 and Courses which support my professional development and contribute to my 
@@ -41,7 +40,7 @@ Cognitive Therapists and the Nursing and Midwifery Council, my work is
 underpinned by the Professional Standards of Conduct and Ethics outlined by 
 these established organisations. I am also a member of the Association for 
 Contextual and Behavioural Scientists, which enables me to develop my practice 
-within the ACT model. I receive regular Clinical Supervision. 
+within the ACT model. I receive regular Clinical Supervision.
 
 
 ## Qualifications
