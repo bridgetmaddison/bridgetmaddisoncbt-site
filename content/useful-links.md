@@ -31,7 +31,7 @@ mindfulness audio to download by Mark Williams and Danny Penman
 
 ## Videos
 
-### ACT videos
+### ACT-related videos
 
 * [Headstuck! What is Experiential 
 Avoidance?](https://www.youtube.com/watch?v=C-ZuqeyxULM). This short animation 
@@ -48,6 +48,12 @@ Life](https://www.youtube.com/watch?v=eiPxLpYlw4I)
 * [The Choice Point: A Map for a Meaningful Life](https://www.youtube.com/watch?v=OV15x8LvwAQ)
 * [Thanking Your Mind: Taking The Power Out of Difficult Thoughts](https://www.youtube.com/watch?v=206WtwEyqzg)
 * [Susan David: The gift and power of emotional courage](https://www.ted.com/talks/susan_david_the_gift_and_power_of_emotional_courage)
+* [Brené Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability)
+* [Thandie Newton: Embracing otherness, embracing myself](https://www.ted.com/talks/thandie_newton_embracing_otherness_embracing_myself)
+* [Demons on the Boat Metaphor](https://www.youtube.com/watch?v=z-wyaP6xXwE)
+* [Passengers on a Bus Metaphore](https://www.youtube.com/watch?v=Z29ptSuoWRc)
+* [Sushi Train Metaphor](https://www.youtube.com/watch?v=tzUoXJVI0wo)
+* [Russ Harris: The Limbic Brain and its Role in Trauma](https://www.youtube.com/watch?v=VExjWHx2R1E)
 
 ### Self compassion
 
@@ -67,6 +73,8 @@ Mindfulness](http://mrsmindfulness.com/what-is-mindfulness/)
 Anywhere](http://www.huffingtonpost.com/entry/a-tibetan-buddhist-masters-simple-guide-to-meditation_us_57850a79e4b07c356cfe8158)
 * [Mindfulness and How the Brain 
 Works](https://www.youtube.com/watch?v=aNCB1MZDgQA)
+* [Underlying Calm](https://www.youtube.com/watch?v=F0WYFXxhPGY)
+* [How Mindfulness Empowers Us](https://www.youtube.com/watch?v=vzKryaN44ss)
 
 ## Books
 
