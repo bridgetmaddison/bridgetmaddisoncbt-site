@@ -19,16 +19,19 @@ Health, Aviva, Nuffield Health.
 
 ## Current
 
+I have 15 years of experience of working within the NHS, initially as a Mental Health
+nurse until completing my Post Graduate Qualification in CBT in 2010. Alongside my
+individual work with Clients I have enjoyed devising and facilitating an Acceptance and
+Commitment Therapy Group Programme (ACT) which continues to run across the
+County.
 
-I have been working within Adult Primary Care Mental Services for just over 12
-years, completing my Postgraduate Qualification in CBT in 2010. I now share my
-time between NHS based work and offering three mornings of Private Practice from the
-Beacon Clinic in Malvern, Worcestershire.
+Following my decision to leave the NHS in 2018 I now work solely from the Beacon
+Clinic with individuals from 16 upwards and also offer a Group Therapy Programme - A
+Wellbeing Therapy Workshop from the Beacon Clinic and in Worcester.
 
-Alongside my individual work with patients, I am a Clinical Supervisor within 
-the NHS. I am also involved with the development and facilitation of 
-group-work programmes, most recently devising and delivering Acceptance and 
-Commitment Therapy groups within the NHS.
+I have experience of providing Clinical Supervision within the NHS and externally. I
+currently offer Supervision for those interested in building skills within the ACT Model.
+This can be face to face or on Skype or Zoom.
 
 I have a continuing commitment to best practice and regularly attend workshops 
 and Courses which support my professional development and contribute to my 

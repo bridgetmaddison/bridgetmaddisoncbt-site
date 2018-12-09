@@ -16,26 +16,31 @@ background-size: cover;"/>
 
 ## More about CBT
 
-**Cognitive and Behavioural Therapy (CBT)** is a scientifically proven talking
-therapy that can help people with a wide range of difficulties. It is
-recommended in the NICE guidelines (National Institute for Clinical Excellence)
-as an effective treatment for Anxiety based problems and Depression. CBT
-explores how your thoughts, beliefs and attitudes impacts on what you do and
-feel and how a greater understanding of these cycles and processes can lead you
-towards solutions and change. CBT tends to be more focused on the present but
-might also look at your past to help you understand how your past impacts on
-the present. Find out more about the problems that can be effectively treated
+**Cognitive and Behavioural Therapy (CBT)** is a scientifically proven
+talking therapy that can help people with a wide range of difficulties. It is
+recommended in the NICE guidelines (National Institute for Clinical
+Excellence) as an effective treatment for Anxiety based problems and
+Depression. CBT explores how your thoughts, beliefs and attitudes
+impacts on what you do and feel and how a greater understanding of
+these cycles and processes can lead you towards solutions and change.
+CBT tends to be more focused on the present but can refer to the past to
+better understand how it impacts on the here and now.
+
+The Third wave family of Cognitive Behavioural Therapies includes
+Acceptance and Commitment Therapy or ACT and Compassion
+Focused Therapy (amongst others). I am able to draw from this
+innovative body of knowledge with its growing evidence base to ensure
+you get a tailor-made therapy suited to your particular needs. ACT uses
+Mindfulness and Acceptance skills to help you negotiate what gets in the
+way of what matters to you, whilst Compassion Focused Therapy has a
+focus on responding kindly and wisely to the inner critic and painful
+feelings.
+I hope you choose to read further but in essence, CBT is really about
+becoming your own inner coach and brain trainer! so you can do more of
+what’s healthy and helpful in your life and less of the things that aren’t
+working. Find out more about the problems that can be effectively treated
 with CBT under [About You]({{< ref "about-you.md" >}}).
 
-Over recent years I have been increasingly drawn to **Acceptance and Commitment
-Therapy (ACT)**. This falls under the 'umbrella' of CBT and is often referred to
-as one of the 'third wave' family of Cognitive Behavioural Therapies. What I
-love about ACT and why I've begun to use it more in my Practice, is that
-alongside its growing evidence base and great feedback from patients, I know
-how much more prepared I am myself to handle life's challenges, through using
-these skills and ideas! It is also particularly helpful when you are
-experiencing a number of problems at the same time or your problems are
-longstanding.
 
 ## What is Acceptance and Commitment Therapy?
 
@@ -110,34 +115,45 @@ their lives right now. ACT is also a really practical therapy of change so
 if moving forward involves learning new skills or solving problems we can
 consider this too.
 
-## Mindfulness and ACT
-Here is a little more information on how mindfulness is used in Acceptance and Commitment Therapy.
+## What is Compassion Focused Therapy?
+Compassion-focused therapy (CFT) aims to help promote mental and
+emotional healing by encouraging people in treatment to be
+compassionate toward themselves and other people. It is another
+member of the wider family of Cognitive Behavioural Therapies and was
+founded by Professor Paul Gilbert.
 
-It tends to be more 'bite-sized' based on research that shows that even brief
-periods of regular mindfulness practice (5- 10 mins or just mini mindful
-moments!) can still be beneficial and help us to 'rewire' our brain. 
+Like ACT, CFT emphasises the inherent difficulty of our evolved Tricky
+Brains which can make us our own worst critic. Compassion Focused
+Therapy is particularly relevant to those who experience feelings of
+shame or guilt and self-critical thinking. Many people feel able to
+respond in a kindly and supportive fashion to others but struggle to
+motivate themselves in this way. Although the word Compassion makes
+us think of qualities like kindness and warmth, this approach also places
+great emphasis on the strength and courage it takes to engage with our
+suffering and do something about it. CFT presents Compassion as a skill
+that can be developed and nurtured through Compassionate Focused
+Exercises and Practice.
 
-<blockquote>While many people think mindfulness means meditation, this is not the case.
-Mindfulness is a mental state of openness, awareness and focus, and meditation
-is just one way amongst hundreds of learning to cultivate this 
-state.</blockquote>
-_Russ Harris_
+## What is Mindfulness
 
-ACT breaks Mindfulness down into 4 key skills:
+Ever noticed how you get caught up in your head, thinking about the
+next thing to do, worrying or re-living the past. Experts say we spend up
+to 47% of our waking moments in autopilot! Mindfulness is a way of
+training your mind to be more aware of the here and now so we can
+actually live life in the present. It enables us to hold attention where we
+choose, rather than what our thoughts or feelings dictate. Its aim is not
+to try and control or suppress our thoughts or distract from our feelings
+but to enable us to see them for what they are – mental events. Learning
+to look at our thoughts rather than from them means we no longer have
+to over identify with what our mind is telling us. If we can learn to notice
+our experiences, take a step back, we are freed to choose how we want
+to respond. This increases the likelihood that we can start acting in ways
+that are more healthy and helpful and move us towards a better life.
+Finally, Mindfulness enables us to be more present in those moments
+that really matter, so we can appreciate them in all their glory rather than
+being "there but not there".
 
-1. Defusion - distancing from and letting go of unhelpful thoughts, beliefs,
-memories, images, rules for living etc.
-
-
-2. Willingness - making room for painful feelings, urges and sensations, and
-allowing them to come and go without a struggle.
-
-
-3. Contact with the present moment: engaging fully with our here and now
-experience, with an attitude of openness and curiosity. Getting better at being
-connected to the here and now and the things we value.
-
-4. Being the Observer of our experience so we are no longer defined by it. Not
-caught up in unhelpful stories of ourselves based on our past or our fears.
-
-
+As a Therapist I’m a great believer in "practice what you preach" so do
+my best to commit to a daily mindfulness practice. I hope this increases
+my own capacity to be open, present and aware within a Therapy
+Session.
