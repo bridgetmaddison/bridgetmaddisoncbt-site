@@ -23,7 +23,7 @@ Health, Aviva, Nuffield Health.
 I have been working within Adult Primary Care Mental Services for just over 12
 years, completing my Postgraduate Qualification in CBT in 2010. I now share my
 time between NHS based work and offering three mornings of Private Practice from the
-Wellbeing Centre In Malvern, Worcestershire.
+Beacon Clinic in Malvern, Worcestershire.
 
 Alongside my individual work with patients, I am a Clinical Supervisor within 
 the NHS. I am also involved with the development and facilitation of 

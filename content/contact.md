@@ -33,17 +33,14 @@ width="100%" height="500" frameborder="0" marginheight="0"
 marginwidth="0">Loading...</iframe>
 
 
-Sessions to take place at the Centre for Wellbeing, please feel free to 
-contact them direct to book an appointment.
+Sessions to take place at the Beacon Clinic.
 
-Website:    [centreforwellbeing.co.uk](http://centreforwellbeing.co.uk/)
+Website:    [beaconclinic.net](http://beaconclinic.net/)
 
-Phone:     **01684 574888**
-
-The Centre for Wellbeing  
-52 St Andrew's Road  
-Malvern  
-WR14 3PP
+Beacon Clinic  
+Portland Road  
+Great Malvern  
+WR14 2TA
 
 Fees:    £65 per Therapy hour (55 mins) Payment by debit/credit card, cash, 
 cheque, brank transfer, or Paypal invoice.
