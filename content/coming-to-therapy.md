@@ -77,6 +77,18 @@ time, so we might need to have a shorter session.
 
 <blockquote>
 <p>
+I contacted Bridget after experiencing moments of anxiety at work, my doctor
+mentioned that Cognitive Behavioural Therapy could be really useful - it
+certainly is! I found Bridget’s approach very understanding and proactive. I
+feel I know much more about myself, how the brain operates and how we can work
+together more effectively. I believe I have acquired life skill which I will
+continue to develop.  </p>
+</blockquote>
+
+_2018_
+
+<blockquote>
+<p>
 I would highly recommend Bridget to anyone considering CBT counselling. She 
 has really helped me to better understand myself and has given me a virtual 
 bag of tools with which to move forward with confidence and choose how to be.
