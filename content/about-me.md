@@ -46,7 +46,7 @@ This can be face to face or on Skype or Zoom.
 * Post Graduate Diploma in Cognitive and Behavioural Therapy, University Of Birmingham
 2010
 * Diploma of Higher Education (Nursing) Part 13 of Register RMN (Distinction) 
-Pin No. 00E0415W, 2003
+Pin No. 00E0415E, 2003
 * Bachelor of Arts (Honours) Open University 1998
 
 
@@ -58,11 +58,13 @@ setting, where I worked with people individually and in groups.
 * 2006: Joined Primary Care Mental Health Service in Worcestershire as a 
 Gateway Worker (this involved, mental health reviews, using CBT approach 
 interventions and signposting for other Services).
-* 2010: Completed Postgraduate Diploma in CBT at the University of Birmingham. I am
+* 2008: Completed Postgraduate Diploma in CBT at the University of Birmingham. I am
 now in my 7th year as an Accredited member of the BABCP (British Association for
 Cognitive and Behavioural Psychotherapists.
-* 2010-2018 CBT Therapist within Worcestershire Healthy Minds from, providing
+* 2011: Full Accreditation with BABCP (British Association for Cognitive and Behavioural Psychotherapists)
+* 2010-2018: CBT Therapist within Worcestershire Healthy Minds, providing
 individual Therapy, Clinical Supervision and Group work.
+* 2018 (December): Left the NHS to focus on Private Practice (individual work with Clients, Group Therapy)
 
 ## Code of Ethics and Regulation
 
