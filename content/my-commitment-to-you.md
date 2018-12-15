@@ -40,10 +40,5 @@ for all services involved in storing your data. I am a registered Data
 Controller under the Data Protection Act 1998 and I
 operate in accordance with its legal requirements.
 
-## Social Media Policy
-In the interests of maintaining the clear boundaries of a Professional
-Therapeutic relationship, I do not instigate or accept links with my patients
-on social media sites. Please do not take this personally! 
-
 ## Insurance
 I hold Professional Insurance (professional indemnity and public liability).

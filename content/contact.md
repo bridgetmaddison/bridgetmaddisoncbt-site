@@ -33,7 +33,7 @@ width="100%" height="500" frameborder="0" marginheight="0"
 marginwidth="0">Loading...</iframe>
 
 
-Sessions to take place at the Beacon Clinic.
+As of 2019, sessions will take place at the Beacon Clinic.
 
 Website:    [beaconclinic.net](http://beaconclinic.net/)
 

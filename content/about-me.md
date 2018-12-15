@@ -19,31 +19,25 @@ Health, Aviva, Nuffield Health.
 
 ## Current
 
-I have 15 years of experience of working within the NHS, initially as a Mental Health
-nurse until completing my Post Graduate Qualification in CBT in 2010. Alongside my
-individual work with Clients I have enjoyed devising and facilitating an Acceptance and
-Commitment Therapy Group Programme (ACT) which continues to run across the
-County.
+I am an experienced and Accredited (BABCP) Cognitive Behavioural
+Psychotherapist and Registered Mental Health Nurse. I have been privileged to
+work with many people, empowering them to gain the skills and strategies required
+to work through their problems using the CBT model. Research shows that the
+success of any Therapy experience is very much dependent on the quality of the
+therapeutic relationship. I believe I bring a non-judgemental, warm and kindly
+approach to sessions, ensuring you feel safe and supported as we work together.
 
-Following my decision to leave the NHS in 2018 I now work solely from the Beacon
-Clinic with individuals from 16 upwards and also offer a Group Therapy Programme - A
+I have 15 years of experience of working within the NHS, completing my Post
+Graduate Qualification in CBT in 2010. Alongside my individual work with Clients I
+have enjoyed devising and facilitating an Acceptance and Commitment Therapy
+Group Programme (ACT) which continues to run across the County.
+
+Following my decision to leave the NHS in 2018 I will work solely from the Beacon
+Clinic from 2019 with individuals from 16 upwards and also offer a Group Therapy Programme - A
 Wellbeing Therapy Workshop from the Beacon Clinic and in Worcester.
 
-I have experience of providing Clinical Supervision within the NHS and externally. I
-currently offer Supervision for those interested in building skills within the ACT Model.
-This can be face to face or on Skype or Zoom.
-
-I have a continuing commitment to best practice and regularly attend workshops 
-and Courses which support my professional development and contribute to my 
-ongoing Accreditation and Registration.
-
-
-As an Accredited member of the British Association of Behavioural and 
-Cognitive Therapists and the Nursing and Midwifery Council, my work is 
-underpinned by the Professional Standards of Conduct and Ethics outlined by 
-these established organisations. I am also a member of the Association for 
-Contextual and Behavioural Scientists, which enables me to develop my practice 
-within the ACT model. I receive regular Clinical Supervision.
+I am an experienced Clinical Supervisor both in the NHS and in Private Practice with
+a particular emphasis in what is called Third Wave CBT.
 
 
 ## Qualifications
@@ -63,13 +57,23 @@ setting, where I worked with people individually and in groups.
 * 2006: Joined Primary Care Mental Health Service in Worcestershire as a 
 Gateway Worker (this involved, mental health reviews, using CBT approach 
 interventions and signposting for other Services).
-* With a growing interest in developing my therapy skills I completed the 
-Postgraduate Diploma in CBT at the University of Birmingham in 2008-10. I am 
-now in my 5th year as an Accredited member of the BABCP (British Association 
-for Cognitive and Behavioural Psychotherapists). I continue to work with 
-adults from 16 upwards within the NHS and privately. 
+* 2010: Completed Postgraduate Diploma in CBT at the University of Birmingham. I am
+now in my 7th year as an Accredited member of the BABCP (British Association for
+Cognitive and Behavioural Psychotherapists.
+* 2010-2018 CBT Therapist within Worcestershire Healthy Minds from, providing
+individual Therapy, Clinical Supervision and Group work.
 
-When I'm not working or learning, I'm kept pretty busy with family, (I have 5 
-children, though 3 are grown up!), dogs, and garden. I also enjoy getting out 
-and about in our beautiful local countryside!
+## Code of Ethics and Regulation
 
+I have a continuing commitment to best practice and regularly attend workshops and
+Courses which support my professional development and contribute to my ongoing
+Accreditation and Registration. I receive regular Supervision, from a BABCP
+Accredited Clinical Psychologist and Peer Reviewed ACT Trainer.
+
+As an Accredited member of the British Association of Behavioural and Cognitive
+Therapists and the Nursing and Midwifery Council, my work is underpinned by the
+Professional Standards of Conduct and Ethics outlined by these established
+organisations. I am also a member of the Association for Contextual and Behavioural
+Scientists, which enables me to develop my practice within the ACT model.
+
+I have an Enhanced Disclosure and Barring Service Status
