@@ -36,8 +36,9 @@ Following my decision to leave the NHS in 2018 I will work solely from the Beaco
 Clinic from 2019 with individuals from 16 upwards and also offer a Group Therapy Programme - A
 Wellbeing Therapy Workshop from the Beacon Clinic and in Worcester.
 
-I am an experienced Clinical Supervisor both in the NHS and in Private Practice with
-a particular emphasis in what is called Third Wave CBT.
+I have experience of providing Clinical Supervision within the NHS and externally. I
+currently offer Supervision for those interested in building skills within the ACT Model.
+This can be face to face or on Skype or Zoom.
 
 
 ## Qualifications
