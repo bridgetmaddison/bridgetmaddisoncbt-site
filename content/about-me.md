@@ -58,9 +58,7 @@ setting, where I worked with people individually and in groups.
 * 2006: Joined Primary Care Mental Health Service in Worcestershire as a 
 Gateway Worker (this involved, mental health reviews, using CBT approach 
 interventions and signposting for other Services).
-* 2008: Completed Postgraduate Diploma in CBT at the University of Birmingham. I am
-now in my 7th year as an Accredited member of the BABCP (British Association for
-Cognitive and Behavioural Psychotherapists.
+* 2008: Completed Postgraduate Diploma in CBT at the University of Birmingham.
 * 2011: Full Accreditation with BABCP (British Association for Cognitive and Behavioural Psychotherapists)
 * 2010-2018: CBT Therapist within Worcestershire Healthy Minds, providing
 individual Therapy, Clinical Supervision and Group work.
