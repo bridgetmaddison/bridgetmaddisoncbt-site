@@ -14,7 +14,7 @@ title = "About me"
 
 
 I accept referrals from: individuals, GPs, Psychiatrists, Bupa, Vitality 
-Health, Aviva, Nuffield Health.
+Health, Aviva, Nuffield Health, and others.
 
 
 ## Current
