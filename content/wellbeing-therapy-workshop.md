@@ -56,7 +56,7 @@ Clinic**, Malvern WR14 2TA
 
 **Cost: £165.00** for 8 Sessions (Introductory cost, usual £185).
 
-Secure your place with a £50.00 deposit, balance to be paid 2 weeks before the course commences.
+Secure your place with a £30 deposit (refundable if you are unable to attend), with payment in full due the day before the course begins.
 
 Email or phone to find out more and secure your place: 07752 199 258 or
 contact@bridgetmaddisoncbt.co.uk. Alternatively, use my [contact form]({{< ref "contact.md" >}}).
