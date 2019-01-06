@@ -13,7 +13,8 @@ title = "About me"
 ## Referrals
 
 
-I accept referrals from: individuals, GPs, Psychiatrists, Bupa, Vitality 
+I accept referrals from: individuals, GPs, Psychiatrists,
+[Bupa](https://finder.bupa.co.uk/Consultant/view/215281/mrs_bridget_maddison), Vitality 
 Health, Aviva, Nuffield Health, and others.
 
 
