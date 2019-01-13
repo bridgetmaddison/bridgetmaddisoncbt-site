@@ -31,7 +31,7 @@ mindfulness audio to download by Mark Williams and Danny Penman
 
 ## Videos
 
-### ACT-related videos
+### Videos about our tricky minds
 
 * [Headstuck! What is Experiential 
 Avoidance?](https://www.youtube.com/watch?v=C-ZuqeyxULM). This short animation 
@@ -54,6 +54,10 @@ Life](https://www.youtube.com/watch?v=eiPxLpYlw4I)
 * [Passengers on a Bus Metaphore](https://www.youtube.com/watch?v=Z29ptSuoWRc)
 * [Sushi Train Metaphor](https://www.youtube.com/watch?v=tzUoXJVI0wo)
 * [Russ Harris: The Limbic Brain and its Role in Trauma](https://www.youtube.com/watch?v=VExjWHx2R1E)
+* [What if my brain held a meeting](https://www.youtube.com/watch?v=7N9r8nVogM8)
+* [Relational frame theory - how language shapes our
+  experience](https://www.youtube.com/watch?v=XvnEn1Y-gcQ)
+* [The unwelcome party guest](https://www.youtube.com/watch?v=VYht-guymF4)
 
 ### Self compassion
 
@@ -70,7 +74,7 @@ Superpower](https://www.youtube.com/watch?v=w6T02g5hnT4)
 Mindfulness](http://mrsmindfulness.com/what-is-mindfulness/)
 * [What is Mindfulness](https://www.youtube.com/watch?v=HmEo6RI4Wvs)
 * [How to Meditate Anytime, 
-Anywhere](http://www.huffingtonpost.com/entry/a-tibetan-buddhist-masters-simple-guide-to-meditation_us_57850a79e4b07c356cfe8158)
+Anywhere](https://www.youtube.com/watch?v=URL5xHCK1-I)
 * [Mindfulness and How the Brain 
 Works](https://www.youtube.com/watch?v=aNCB1MZDgQA)
 * [Underlying Calm](https://www.youtube.com/watch?v=F0WYFXxhPGY)
