@@ -2,7 +2,7 @@
 categories = []
 date = "2016-02-28T19:04:10Z"
 draft = false
-featureimage = ""
+featureimage = "header6.jpg"
 menu = "nav"
 weight = 6
 tags = []
