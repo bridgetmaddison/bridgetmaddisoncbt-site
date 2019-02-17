@@ -1,18 +1,14 @@
 		{{ partial "head.html" . }}
 		<body>
 			{{ partial "nav.html" . }}
-			<div class="content">
 				{{ if and (isset .Params "featureimage") (not (eq .Params.featureimage "")) }}
-				<article class="feature-image">
-					<header style="background-image: url('{{ .Site.BaseURL }}{{ .Params.featureimage }}')">
-						<h1 class="title">{{ .Title }}</h1>
-					</header>
-				{{ else }}
+				<img src="{{ .Site.BaseURL }}/img/{{ .Params.featureimage }}" style="width: 100%; height: auto; background-size: cover;"/>
+        {{ end }}
+			<div class="content">
 				<article>
 					<header>
 						<h1 class="title">{{ .Title }}</h1>
 					</header>
-				{{ end }}
 
 				<section class="post-content">
 					{{ .Content }}

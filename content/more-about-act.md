@@ -2,17 +2,13 @@
 categories = []
 date = "2016-02-28T19:04:10Z"
 draft = false
-featureimage = ""
+featureimage = "header1.jpg"
 menu = "nav"
 weight = 1
 tags = []
 title = "More about CBT and ACT"
 
 +++
-
-
-<img src="/img/change_clouds.jpg" style="width: 60%; height: auto; 
-background-size: cover;"/>
 
 ## More about CBT
 
