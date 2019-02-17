@@ -34,8 +34,7 @@ have enjoyed devising and facilitating an Acceptance and Commitment Therapy
 Group Programme (ACT) which continues to run across the County.
 
 Following my decision to leave the NHS in 2018 I will work solely from the Beacon
-Clinic from 2019 with individuals from 16 upwards and also offer a Group Therapy Programme - A
-Wellbeing Therapy Workshop from the Beacon Clinic and in Worcester.
+Clinic from 2019 with individuals from 16 upwards.
 
 I have experience of providing Clinical Supervision within the NHS and externally. I
 currently offer Supervision for those interested in building skills within the ACT Model.
