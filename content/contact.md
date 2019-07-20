@@ -22,6 +22,10 @@ below.
 
 I will endeavour to get back to you as soon as I can.
 
+**I'm on a Breathworks Mindfulness Teacher Training Retreat from Saturday
+20th July until Friday 26th July. As I will be off-line I will be
+unable to respond to enquiries but will get back to you ASAP on my return.**
+
 Phone: **07752 199258**
 
 Email: <contact@bridgetmaddisoncbt.co.uk>
