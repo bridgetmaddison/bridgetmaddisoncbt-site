@@ -77,6 +77,26 @@ time, so we might need to have a shorter session.
 
 <blockquote>
 <p>
+Bridget's therapy was so helpful to me. When I first went to see her my head
+was all over the place and I just kept getting thoughts that I couldn't stop
+and that just kept spiralling out of control and giving me horrible feelings I
+had never experienced before. I was getting mood swings and being snappy at
+home without understanding why and sometimes without realising. Bridget was
+able to get to the bottom of these issues and help me to understand why I was
+feeling like I did and to understand that it was anxiety that I was living
+with. Then with the help of Bridget's 8 week CBT course I was able to get a
+hold of these feelings and learn to accept them, not push them away, learn
+what they felt like and develop techniques that allowed me to live with the
+feelings and not let them take over me. I would definitely recommend Bridget
+to anybody that struggles with mental health  issues and she really has
+changed my life.
+</p>
+</blockquote>
+
+_2019_
+
+<blockquote>
+<p>
 I contacted Bridget after experiencing moments of anxiety at work, my doctor
 mentioned that Cognitive Behavioural Therapy could be really useful - it
 certainly is! I found Bridget’s approach very understanding and proactive. I
