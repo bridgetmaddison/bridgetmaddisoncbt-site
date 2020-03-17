@@ -33,7 +33,8 @@ width="100%" height="500" frameborder="0" marginheight="0"
 marginwidth="0">Loading...</iframe>
 
 
-As of 2019, sessions will take place at the Beacon Clinic.
+Sessions will take place at the Beacon Clinic or can be arranged to take place
+remotely through Zoom.
 
 Website:    [beaconclinic.net](http://beaconclinic.net/)
 
@@ -44,6 +45,21 @@ WR14 2TA
 
 Fees:    £65 per Therapy hour (55 mins) Payment by debit/credit card, cash, 
 cheque, brank transfer, or Paypal invoice.
+
+#### Using Zoom
+
+When we arrange an appointment, I can email you a link, inviting you to our planned session.
+Just click on this link at the agreed time, follow the instructions to download the App, then off we
+go. You may need to click on 'Start Video' and or 'Start Audio' as you join the 'meetingj, shown
+at the bottom of the screen.
+
+Here is [a video explaining how to 'join a meeting'](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-).
+As with face-to-face sessions, confidentiality is extremely important, so it is worth considering
+the best time and place to attend your session where you have quiet, privacy, and no
+interuptions. See
+[here](https://support.zoom.us/hc/en-us/articles/201362723-End-to-end-Encryption)
+for information on encryption used in Zoom, including support for end-to-end
+encryption.
 
 #### Cancellations or non attendance
 Please to get in touch as soon as possible if you are unable to attend. For less than 24 hours notice I would ask you to pay 50% of the session fee.
