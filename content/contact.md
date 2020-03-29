@@ -33,18 +33,10 @@ width="100%" height="500" frameborder="0" marginheight="0"
 marginwidth="0">Loading...</iframe>
 
 
-Sessions will take place at the Beacon Clinic or can be arranged to take place
-remotely through Zoom.
+In line with the latest government social distancing advice, sessions for the
+time beging take place remotely via Zoom or phone.
 
-Website:    [beaconclinic.net](http://beaconclinic.net/)
-
-Beacon Clinic  
-Portland Road  
-Great Malvern  
-WR14 2TA
-
-Fees:    £65 per Therapy hour (55 mins) Payment by debit/credit card, cash, 
-cheque, brank transfer, or Paypal invoice.
+Fees:    £65 per Therapy hour (55 mins) Payment by debit/credit card, bank transfer, or Paypal invoice.
 
 #### Using Zoom
 
@@ -63,7 +55,3 @@ encryption.
 
 #### Cancellations or non attendance
 Please to get in touch as soon as possible if you are unable to attend. For less than 24 hours notice I would ask you to pay 50% of the session fee.
-
-
-
-
