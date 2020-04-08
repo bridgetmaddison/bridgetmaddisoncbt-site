@@ -34,24 +34,40 @@ marginwidth="0">Loading...</iframe>
 
 
 In line with the latest government social distancing advice, sessions for the
-time beging take place remotely via Zoom or phone.
+time being take place remotely via [Doxy.me](https://doxy.me) or phone.
 
 Fees:    £65 per Therapy hour (55 mins) Payment by debit/credit card, bank transfer, or Paypal invoice.
 
-#### Using Zoom
+#### Online therapy
 
 When we arrange an appointment, I can email you a link, inviting you to our planned session.
-Just click on this link at the agreed time, follow the instructions to download the App, then off we
-go. You may need to click on 'Start Video' and or 'Start Audio' as you join the 'meetingj, shown
-at the bottom of the screen.
+Just click on this link at the agreed time and follow the instructions.
 
-Here is [a video explaining how to 'join a meeting'](https://support.zoom.us/hc/en-us/articles/201362193-How-Do-I-Join-A-Meeting-).
-As with face-to-face sessions, confidentiality is extremely important, so it is worth considering
-the best time and place to attend your session where you have quiet, privacy, and no
-interuptions. See
-[here](https://support.zoom.us/hc/en-us/articles/201362723-End-to-end-Encryption)
-for information on encryption used in Zoom, including support for end-to-end
-encryption.
+I primarily use [Doxy.me](https://doxy.me), a video communication platform designed for health
+care professionals. It is a user friendly system with no requirement for you
+download any software, Apps, or open an account. I have chosen this system to
+ensure I meet the rigorous standards of online security expected by my
+Professional Code of Conduct, Performance and Ethics.
+
+Privacy and security features include:
+
+* End to end encryption
+* Meets GDPR and HIPAA standards (these are the privacy and security policies
+  for Europe/UK and USA)
+* Your personal information remains anonymous as no information is collected
+  or stored following the call and any data transmitted during the call is
+  permanently destroyed once it has ended.
+
+Doxy.me works on tablet, phone, pc, laptop, as long as you can switch to these
+browsers - Chrome, Firefox or Safari 11 or using Windows 10 Operating System (or
+newer versions).
+
+If you have any problems using this system with your equipment we can always
+consider an alternative such as Zoom.
+
+Whatever system we choose please consider the right time and place for you to
+take the call so you can have a degree of privacy and quiet, with little
+interruption.
 
 #### Cancellations or non attendance
 Please to get in touch as soon as possible if you are unable to attend. For less than 24 hours notice I would ask you to pay 50% of the session fee.

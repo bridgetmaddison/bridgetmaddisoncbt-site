@@ -38,7 +38,7 @@ Clinic from 2019 with individuals from 16 upwards.
 
 I have experience of providing Clinical Supervision within the NHS and externally. I
 currently offer Supervision for those interested in building skills within the ACT Model.
-This can be face to face or on Skype or Zoom.
+This can be face to face or on Doxy.me, Skype, or Zoom.
 
 
 ## Qualifications
