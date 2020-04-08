@@ -25,6 +25,9 @@ stresses in this uncertain, strange, and scary time.
 * [Video: How to Bring ACT Skills to Challenging
   Times](https://www.youtube.com/watch?v=NK9G0yhMxNg), by ACT Auntie -
   illustrator and ACT practitioner.
+* [Video: A framework for understanding our responses to
+  COVID](https://www.youtube.com/watch?v=wGPrGP6KpOU), by Consultant Clinical
+  Psychologist Dr Fiona Kennedy, CBT and Trauma specialist.
 
 ## Online resources
 
