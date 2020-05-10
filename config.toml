@@ -48,3 +48,6 @@ paginate = 10
 		twitter = "bridgetmaddiso1"
 		wordpress = ""
 		youtube = ""
+
+[markup.goldmark.renderer]
+unsafe = true
