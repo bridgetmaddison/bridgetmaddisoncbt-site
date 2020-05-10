@@ -77,6 +77,57 @@ time, so we might need to have a shorter session.
 
 <blockquote>
 <p>
+After hitting emotional rock bottom last year, I had tried a handful of
+counselling sessions elsewhere but felt like I was not progressing hugely or
+able to make any 'next steps' to get my life back on track. Somebody
+recommended CBT to me along with ACT as potential forms of therapy, and through
+some research I discovered Bridget in Malvern. Despite the current climate of
+the world and the majority of our counselling sessions having to be conducted
+long distance via Zoom (and many other online platforms!), Bridget went out of
+her way to be there for me both as a counselor and for emotional support
+throughout, and has subsequently helped me through some of the most challenging
+months of my life. Through compassion therapy, 'self kindness', meditation
+exercises and understanding of the psychology behind negative thoughts and
+feelings, I now have a much greater understanding of myself, my own emotions
+and how to move forwards, even if small steps, towards happiness. Thank you
+Bridget - I certainly couldn't have done any of it without you and will
+definitely be following up when I next need to 'drop anchor' again!
+</blockquote>
+</p>
+
+_April 2020_
+
+<blockquote>
+<p>
+I started seeing Ms Bridget Maddison when I was at the lowest point of my life
+when I could feel anxious easily and could not carry out the very basic day to
+day tasks such as shopping or collecting kids from school. The CBT based
+approach helped me HUGELY as I gradually realised that all my symptoms actually
+stemmed from my worry and fear rather than physical illness. Once I started
+accepting that, my condition just started getting better day by day.
+
+I found Bridget very easy to speak to and such a good listener, which to me is
+really important as when I was anxious I really don't need any more distress.
+She always kept me relaxed during the therapy but at the same time she did try
+to bring me back to the schedule she has set up for the session, which is also
+really important for me to receive the best cure I needed at the time.  Before
+the end of each season, she always gave me some handouts to bring home for
+self-read and self-help. Thus I could always learn a bit more during the two
+sessions.
+
+All in all, I'm very happy to recommend Bridget to anyone who is suffering from
+anxiety issues. I also would like to say to anyone who is reading this
+testimonial. You can bring your life back and be normal again. To me, my
+anxiety issue is just a wake-up call. It is not a bad thing when I look back.
+Now I live a much healthier and happier life thanks to the anxiety issue I had
+just a few months ago.
+</p>
+</blockquote>
+
+_April 2020_
+
+<blockquote>
+<p>
 Bridget's therapy was so helpful to me. When I first went to see her my head
 was all over the place and I just kept getting thoughts that I couldn't stop
 and that just kept spiralling out of control and giving me horrible feelings I

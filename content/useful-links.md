@@ -28,6 +28,8 @@ stresses in this uncertain, strange, and scary time.
 * [Video: A framework for understanding our responses to
   COVID](https://www.youtube.com/watch?v=wGPrGP6KpOU), by Consultant Clinical
   Psychologist Dr Fiona Kennedy, CBT and Trauma specialist.
+* ['People want to help you. Let them': How to be compassionate in a
+crisis](https://www.theguardian.com/lifeandstyle/2020/apr/08/people-want-to-help-you-let-them-how-to-be-compassionate-in-a-crisis)
 
 ## Online resources
 
