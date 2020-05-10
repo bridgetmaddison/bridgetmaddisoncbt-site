@@ -79,6 +79,7 @@ Life](https://www.youtube.com/watch?v=eiPxLpYlw4I)
 * [Relational frame theory - how language shapes our
   experience](https://www.youtube.com/watch?v=XvnEn1Y-gcQ)
 * [The unwelcome party guest](https://www.youtube.com/watch?v=VYht-guymF4)
+* [Michael Junior: 'Know Your Why'](https://www.youtube.com/watch?v=LZe5y2D60YU)
 
 ### Self compassion
 
