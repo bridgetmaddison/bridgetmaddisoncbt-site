@@ -1,4 +1,4 @@
-baseurl = "http://www.bridgetmaddisoncbt.co.uk/"
+baseurl = "https://www.bridgetmaddisoncbt.co.uk/"
 languageCode = "en-us"
 title = "Bridget Maddison CBT"
 theme = "hugo-type-theme"
