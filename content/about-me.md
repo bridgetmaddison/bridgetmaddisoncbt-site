@@ -68,8 +68,10 @@ individual Therapy, Clinical Supervision and Group work.
 
 I have a continuing commitment to best practice and regularly attend workshops and
 Courses which support my professional development and contribute to my ongoing
-Accreditation and Registration. I receive regular Supervision, from a BABCP
-Accredited Clinical Psychologist and Peer Reviewed ACT Trainer.
+Accreditation and Registration. I receive monthly Supervision from an
+experienced BABCP Accredited CBT Therapist/ Compassion Focused Therapist. I
+also attend a Peer Supervision Group grounded in the ACT model and Contextual
+Behavioural Science.
 
 As an Accredited member of the British Association of Behavioural and Cognitive
 Therapists and the Nursing and Midwifery Council, my work is underpinned by the
