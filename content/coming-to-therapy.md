@@ -54,14 +54,19 @@ prescribed for mood management.
 * Initial consultation - brief phone-call, message, email: No charge.
 * £65 per Therapy Hour (55 mins) face to face, 5 minutes for endings, payment,
 rebooking.
-* To be paid at end of session
+* To be paid on the day of therapy, before or promptly after the session.
 
 **Sessions funded by Health Insurance Companies may be subject to a
 different fee as agreed with individual organisations.**
 
-**Method of Payment**: Credit or Debit Card (via card reader), Cheque, (made
-payable to Bridget Maddison), Cash, Bank Transfer, Paypal Invoice via email (you
-don't need a Paypal account for this).
+Method of payment:
+* __For online sessions__: My preferred method of payment is via Bank
+  Transfer. If you do not have access to online banking to set up a payment,
+  I can email you a Paypal Invoice - click on the link and use the bank card
+  of your choice. (I am subject to payment fees for this method)
+* __For face to face sessions__: As above, my preferred method of payment is
+  via Bank Transfer but you can also pay using my Card Reader, Cash, Cheque or
+  request an Paypal Invoice with link for bank card payment.
 
 ### Missed or cancelled appointments
 
@@ -83,7 +88,7 @@ able to make any 'next steps' to get my life back on track. Somebody
 recommended CBT to me along with ACT as potential forms of therapy, and through
 some research I discovered Bridget in Malvern. Despite the current climate of
 the world and the majority of our counselling sessions having to be conducted
-long distance via Zoom (and many other online platforms!), Bridget went out of
+long distance, Bridget went out of
 her way to be there for me both as a counselor and for emotional support
 throughout, and has subsequently helped me through some of the most challenging
 months of my life. Through compassion therapy, 'self kindness', meditation

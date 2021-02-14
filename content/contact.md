@@ -26,6 +26,8 @@ Phone: **07752 199258**
 
 Email: <contact@bridgetmaddisoncbt.co.uk>
 
+_Plase note, sometimes my reply emails get miscategorised in Spam folders, so
+please check this if it appears I do not reply promptly to your enquiry._
 
 <iframe 
 src="https://docs.google.com/forms/d/1nHvkFc7cPkGPb0PiaDYbWHIcL-P60IiLBME4lXQ97ok/viewform?embedded=true" 
@@ -36,7 +38,7 @@ marginwidth="0">Loading...</iframe>
 In line with the latest government social distancing advice, sessions for the
 time being take place remotely via [Doxy.me](https://doxy.me) or phone.
 
-Fees:    £65 per Therapy hour (55 mins) Payment by debit/credit card, bank transfer, or Paypal invoice.
+Fees:    £65 per Therapy hour (55 mins) Payment by debit/credit card, bank transfer, or Paypal invoice. To be paid __one the day__ of therapy, before or promptly after the session.
 
 #### Online therapy
 

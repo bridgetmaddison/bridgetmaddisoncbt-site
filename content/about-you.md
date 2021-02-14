@@ -29,8 +29,14 @@ Cognitive Behavioural Therapy has been recommended in the NICE Guidelines, (The 
 * Post Traumatic Stress Disorder (PTSD)
 
 
-I am experienced and trained in the individual evidence based protocols for each of these problems and this informs my practice. However, my experience of real people tells me that few people actually fit into these neat boxes and a broader or ‘transdiagnostic’ approach can be beneficial. 
+I am experienced and trained in the individual evidence based protocols for each of these problems and this informs my practice. However, my experience of real people tells me that few people actually fit into these neat boxes and a broader or 'transdiagnostic' approach can be beneficial. 
 
+My specialist interest area and an area in which I have considerable
+experience is working with OCD (Obsessive Compulsive Disorder) and
+particularly 'Pure O' (a form of OCD in which a person experiences obsessive,
+unwanted thoughts without visible compulsions or rituals). There are many
+subtypes within Pure O that span a wide range of themes. See
+[here](https://www.mind.org.uk/information-support/types-of-mental-health-problems/obsessive-compulsive-disorder-ocd/symptoms-of-ocd/) for more information on this form of OCD.
 
 I have a strong interest and considerable experience in the following areas 
 for which an ACT approach has been found to be particularly beneficial: 
