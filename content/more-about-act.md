@@ -6,7 +6,7 @@ featureimage = "header1.jpg"
 menu = "nav"
 weight = 1
 tags = []
-title = "More about CBT and ACT"
+title = "CBT, ACT, and Mindfulness"
 
 +++
 
@@ -153,3 +153,51 @@ As a Therapist I’m a great believer in "practice what you preach" so do
 my best to commit to a daily mindfulness practice. I hope this increases
 my own capacity to be open, present and aware within a Therapy
 Session.
+
+## Me and Mindfulness
+
+I am committed to developing my practice and understanding of mindfulness, and
+over the last few years have completed training with the [Breathworks
+Mindfulness Organisation](https://www.breathworks-mindfulness.org.uk).
+
+Breathworks is a charitable organisation providing evidence based mindfulness
+and compassion focused programmes for individuals and organisations as well an
+Accredited Teacher Training programme. My training prepares me for teaching
+the Mindfulness for Health and Mindfulness for Stress Courses. Training
+includes learning within week long Residential Retreats, Residential Movement
+Meditation training and supporting a local 8 week course alongside commitment
+to individual practice and supportive Supervision. I plan to finalise my
+training this year.
+
+## Individual Mindfulness Training
+
+The Mindfulness for Health and Little Mindfulness Workbook can form the basis of an
+individual programme which we can work through together supported by in session
+practice alongside access to the free online meditations and downloadable exercise
+sheets linked to books. This gives you the opportunity to gain from an evidence based
+programme with the benefit of an individual learning experience tailored to your needs
+and interests.
+
+<blockquote>
+"Clinical trials have shown that mindfulness meditation can be as effective as prescription
+painkillers, and can enhance the body's natural healing systems. Mindfulness can also reduce
+the anxiety, depression, irritability, exhaustion, and insomnia that arises from chronic pain and
+illness".
+</blockquote>
+
+_[Mindfulness for
+Health,
+Vidyamala Burch and Danny Penman](https://www.breathworks-mindfulness.org.uk/shop/mindfulness-for-health-book)_
+
+<blockquote>
+"Expert author Gary Hennessey brings together his 35 years of experience as one of the UK's
+leading practitioners for his new book The Little Mindfulness Workbook, a practical guide to
+everyday mindfulness techniques.
+
+Using transformative techniques and exercises coupled with the theory behind the practice,
+each chapter of the book builds on the outcomes of the last helping the reader to build a
+repertoire of techniques"
+</blockquote>
+
+_[The Little Mindfulness Workbook, Gary
+Hennessey](https://www.breathworks-mindfulness.org.uk/shop/the-little-mindfulness-workbook)_
