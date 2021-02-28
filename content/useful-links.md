@@ -59,7 +59,7 @@ Avoidance?](https://www.youtube.com/watch?v=C-ZuqeyxULM). This short animation
 provides a great introduction to some key concepts underlying Acceptance and 
 Commitment Therapy.
 * [The Struggle Switch](https://www.youtube.com/watch?v=rCp1l16GCXI)
-* [Internal Struggles](https://www.youtube.com/watch?v=dz_nexLqY_8)
+* [Internal Struggles](https://www.youtube.com/watch?v=phbzSNsY8vc)
 * [The 3 Happiness Myths](https://www.youtube.com/watch?v=93LFNtcR1Ok)
 * [The Values-Focused vs the Goals-Focused 
 Life](https://www.youtube.com/watch?v=eiPxLpYlw4I)
