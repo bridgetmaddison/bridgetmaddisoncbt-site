@@ -38,7 +38,7 @@ marginwidth="0">Loading...</iframe>
 In line with the latest government social distancing advice, sessions for the
 time being take place remotely via [Doxy.me](https://doxy.me) or phone.
 
-Fees:    £65 per Therapy hour (55 mins) Payment by debit/credit card, bank transfer, or Paypal invoice. To be paid __one the day__ of therapy, before or promptly after the session.
+Fees:    £70 per Therapy hour (55 mins) Payment by debit/credit card, bank transfer, or Paypal invoice. To be paid __one the day__ of therapy, before or promptly after the session.
 
 #### Online therapy
 
