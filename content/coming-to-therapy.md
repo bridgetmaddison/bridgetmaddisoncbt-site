@@ -82,6 +82,62 @@ time, so we might need to have a shorter session.
 
 <blockquote>
 <p>
+I have been having counselling with Bridget since June 2020 and cannot thank
+her enough for her help and wisdom. Bridget is totally professional,
+compassionate and approachable. Her CBT methods are well explained by her and
+easily accessible. She provides really helpful resources to user at home. As I
+now finish I feel stronger emotionally and mentally and have more confidence
+to accept myself and others and hence move forward into the future with a
+wiser, more accepting attitude. Life may not be perfect but Bridget has
+definitely helped and enabled me to face the future with a more positive
+attitude and more confidence. I recommend her to anyone who needs help. I
+definitely could not have done it without her!
+</p>
+</blockquote>
+
+_August 2021_
+
+<blockquote>
+<p>
+As someone who experienced anxiety in the past, the pandemic really
+exacerbated things and had a big impact on my mental health, seriously
+affecting my studies and day-to-day life. I realised that I wasn't coping on
+my own and needed help. By the time I got in touch with Bridget, I had never
+had therapy before and I’m so glad I did! Bridget was very warm and welcoming
+from the start. She has a fun and engaging way of explaining how our tricky
+human minds work and gives you the right tools to approach difficult thoughts
+and feelings in a different, more compassionate way. I’m so grateful to have
+met and worked with Bridget, I can't recommend her enough!
+</p>
+</blockquote>
+
+_August 2021_
+
+<blockquote>
+<p>
+I have continued to put into practice much of the tools I learnt with you.
+Self- compassion in particular has been an absolute life-saver and I am
+incredibly grateful to you for all of our sessions together. I learnt such a
+lot and it helped me through the very difficult year of 2020. You were always
+without fail kind, compassionate and supportive and I wanted to thank you so
+much for everything.
+</p>
+</blockquote>
+
+_July 2021_
+
+<blockquote>
+<p>
+Working with Bridget has more fully enabled me to understand and accept the
+ways in which anxiety impacts my life and it has given me tools to manage and
+deal with it more effectively in the future.
+</p>
+</blockquote>
+
+_April 2021_
+
+<blockquote>
+<p>
 After hitting emotional rock bottom last year, I had tried a handful of
 counselling sessions elsewhere but felt like I was not progressing hugely or
 able to make any 'next steps' to get my life back on track. Somebody
@@ -97,8 +153,8 @@ feelings, I now have a much greater understanding of myself, my own emotions
 and how to move forwards, even if small steps, towards happiness. Thank you
 Bridget - I certainly couldn't have done any of it without you and will
 definitely be following up when I next need to 'drop anchor' again!
-</blockquote>
 </p>
+</blockquote>
 
 _April 2020_
 
