@@ -80,6 +80,8 @@ Life](https://www.youtube.com/watch?v=eiPxLpYlw4I)
   experience](https://www.youtube.com/watch?v=XvnEn1Y-gcQ)
 * [The unwelcome party guest](https://www.youtube.com/watch?v=VYht-guymF4)
 * [Michael Junior: 'Know Your Why'](https://www.youtube.com/watch?v=LZe5y2D60YU)
+* [The ACT Matrix - a simple perspective-taking
+  exercise](https://www.youtube.com/watch?v=cCCSpOtDPV0)
 
 ### Self compassion
 
