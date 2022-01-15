@@ -82,6 +82,18 @@ time, so we might need to have a shorter session.
 
 <blockquote>
 <p>
+I wanted to say thank you for your help over the past few months.  I have been
+managing anxiety issues for many years, and tried various things, but I have
+found the techniques you have taught me to be very effective.  I feel so much
+more optimistic now I know I have a ‘toolkit’ to help me when life gets
+difficult in the future.
+</p>
+</blockquote>
+
+_2022_
+
+<blockquote>
+<p>
 I have been having counselling with Bridget since June 2020 and cannot thank
 her enough for her help and wisdom. Bridget is totally professional,
 compassionate and approachable. Her CBT methods are well explained by her and
