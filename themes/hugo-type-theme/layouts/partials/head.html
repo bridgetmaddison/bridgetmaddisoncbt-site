@@ -7,19 +7,13 @@
 	<meta http-equiv="X-Frame-Options" content="sameorigin">
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-	{{ .Hugo.Generator }}
+	{{ hugo.Generator }}
 
 	{{ "<!-- CSS -->" | safeHTML }}
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css">
 
 	{{ "<!--Favicon-->" | safeHTML }}
 	<link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.ico" type="image/x-icon">
-
-	{{ "<!-- RSS -->" | safeHTML }}
-	{{ if .RSSLink }}
-	  	<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-	  	<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-	{{ end }}
 
 	{{ "<!-- Font Awesome -->" | safeHTML }}
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
