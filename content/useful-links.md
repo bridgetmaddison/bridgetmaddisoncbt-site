@@ -10,27 +10,6 @@ title = "Useful links"
 
 +++
 
-## Coronavirus
-
-Here are some resources I have chosen to help you navigate your fears and
-stresses in this uncertain, strange, and scary time.
-
-* [Article: That Discomfort You're Feeling is Grief - Harvard Business
-  Review](https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief)
-* [Article: The Ordinary Corona Hero: You](https://www.psychologytoday.com/intl/blog/get-out-your-mind/202003/the-ordinary-corona-hero-you/) - by Steve Hayes (originator of Acceptance and Commitment Therapy).
-* [Video: FACE COVID: 'Drop Anchor'
-  exercise](https://www.youtube.com/watch?v=BmvNCdpHUYM), by Russ Harris
-  (author of The Happiness Trap). See also the [PDF
-  handout](https://drive.google.com/file/d/1YjGsKTP23PKVP-pSYRbDWvNoSYM47Xg2/view)
-* [Video: How to Bring ACT Skills to Challenging
-  Times](https://www.youtube.com/watch?v=NK9G0yhMxNg), by ACT Auntie -
-  illustrator and ACT practitioner.
-* [Video: A framework for understanding our responses to
-  COVID](https://www.youtube.com/watch?v=wGPrGP6KpOU), by Consultant Clinical
-  Psychologist Dr Fiona Kennedy, CBT and Trauma specialist.
-* ['People want to help you. Let them': How to be compassionate in a
-crisis](https://www.theguardian.com/lifeandstyle/2020/apr/08/people-want-to-help-you-let-them-how-to-be-compassionate-in-a-crisis)
-
 ## Online resources
 
 * [What is CBT 
