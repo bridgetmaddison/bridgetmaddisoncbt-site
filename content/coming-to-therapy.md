@@ -82,6 +82,18 @@ time, so we might need to have a shorter session.
 
 <blockquote>
 <p>
+For several years I had tried a variety of therapies with little sustained
+success.  From the Beginning working with Bridget my experience changed.  She
+introduced me to both new ways of thinking and behaviours which gave me
+practical strategies of help. Routinely she supplemented our sessions with
+additional information which ensured enhanced support. I am grateful to
+Bridget for her help and support and have no hesitation in recommending her to
+others.
+</p>
+</blockquote>
+
+<blockquote>
+<p>
 I wanted to say thank you for your help over the past few months.  I have been
 managing anxiety issues for many years, and tried various things, but I have
 found the techniques you have taught me to be very effective.  I feel so much
