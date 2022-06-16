@@ -149,9 +149,9 @@ Finally, Mindfulness enables us to be more present in those moments
 that really matter, so we can appreciate them in all their glory rather than
 being "there but not there".
 
-As a Therapist I’m a great believer in "practice what you preach" so do
+As a Therapist I'm a great believer in "practice what you preach" so do
 my best to commit to a daily mindfulness practice. I hope this increases
-my own capacity to be open, present and aware within a Therapy
+my own capacity to be open, present and engaged within a Therapy
 Session.
 
 ## Me and Mindfulness
@@ -166,8 +166,12 @@ Accredited Teacher Training programme. My training prepares me for teaching
 the Mindfulness for Health and Mindfulness for Stress Courses. Training
 includes learning within week long Residential Retreats, Residential Movement
 Meditation training and supporting a local 8 week course alongside commitment
-to individual practice and supportive Supervision. I plan to finalise my
-training this year.
+to individual practice and supportive Supervision. In May 2022, (following
+leading my first Mindfulness for Health 8 week Practice course), I qualified
+as a __Fully Accredited, Breathworks Mindfulness for Health and Breathworks
+Mindfulness for Stress Course Leader__. Breathworks is a member of the
+Federation of Holistic Therapists. I hope to offer these courses locally
+and/or online later this year.
 
 ## Individual Mindfulness Training
 
