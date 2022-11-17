@@ -42,7 +42,6 @@ Commitment Therapy.
 * [The 3 Happiness Myths](https://www.youtube.com/watch?v=93LFNtcR1Ok)
 * [The Values-Focused vs the Goals-Focused 
 Life](https://www.youtube.com/watch?v=eiPxLpYlw4I)
-* [The Choice Point](https://www.youtube.com/watch?v=bSpPgL3VaHI)
 * [Psychological flexibility: How love turns pain into purpose](https://www.youtube.com/watch?v=o79_gmO5ppg)
 * [The Happiness Trap: Evolution of the Human Mind](https://www.youtube.com/watch?v=kv6HkipQcfA)
 * [The Choice Point: A Map for a Meaningful Life](https://www.youtube.com/watch?v=OV15x8LvwAQ)
@@ -51,7 +50,7 @@ Life](https://www.youtube.com/watch?v=eiPxLpYlw4I)
 * [Brené Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability)
 * [Thandie Newton: Embracing otherness, embracing myself](https://www.ted.com/talks/thandie_newton_embracing_otherness_embracing_myself)
 * [Demons on the Boat Metaphor](https://www.youtube.com/watch?v=z-wyaP6xXwE)
-* [Passengers on a Bus Metaphore](https://www.youtube.com/watch?v=Z29ptSuoWRc)
+* [Passengers on a Bus Metaphor](https://www.youtube.com/watch?v=Z29ptSuoWRc)
 * [Sushi Train Metaphor](https://www.youtube.com/watch?v=tzUoXJVI0wo)
 * [Russ Harris: The Limbic Brain and its Role in Trauma](https://www.youtube.com/watch?v=VExjWHx2R1E)
 * [What if my brain held a meeting](https://www.youtube.com/watch?v=7N9r8nVogM8)
@@ -61,6 +60,16 @@ Life](https://www.youtube.com/watch?v=eiPxLpYlw4I)
 * [Michael Junior: 'Know Your Why'](https://www.youtube.com/watch?v=LZe5y2D60YU)
 * [The ACT Matrix - a simple perspective-taking
   exercise](https://www.youtube.com/watch?v=cCCSpOtDPV0)
+* [I had a black dog, his name was
+  depression](https://www.youtube.com/watch?v=XiCrniLQGYc)
+* [How to deal with intrusive
+  thoughts](https://www.youtube.com/watch?v=laeYq51SYA0)
+* [Grief - the ball and the box](https://www.youtube.com/watch?v=Ju3ZeFf4Vos)
+* [Alfred & Shadow - a short story about
+  emotions](https://www.youtube.com/watch?v=SJOjpprbfeE)
+* [Rick Hanson: Taking in the
+  good](https://www.youtube.com/watch?v=uPXOASa1shY)
+
 
 ### Self compassion
 
@@ -68,6 +77,8 @@ Life](https://www.youtube.com/watch?v=eiPxLpYlw4I)
 Life](https://www.youtube.com/watch?v=-kfUE41-JFw)
 * [Brené Brown on Empathy](https://www.youtube.com/watch?v=1Evwgu369Jw)
 * [Brené Brown on Blame](https://www.youtube.com/watch?v=RZWf2_2L2v8)
+* [Discovering the Soothing-Affiliative System of the
+  Brain](https://www.youtube.com/watch?v=UWE3V-v-QPU)
 
 ### Mindfulness
 
