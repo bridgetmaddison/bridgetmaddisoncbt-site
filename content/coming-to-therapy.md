@@ -59,26 +59,33 @@ prescribed for mood management.
 **Sessions funded by Health Insurance Companies or through other referral agencies may be subject to a
 different fee as agreed with individual organisations.**
 
-Method of payment:
-* __For online sessions__: My preferred method of payment is via Bank
-  Transfer. If you do not have access to online banking to set up a payment,
-  I can email you a Paypal Invoice - click on the link and use the bank card
-  of your choice. (I am subject to payment fees for this method)
-* __For face to face sessions__: As above, my preferred method of payment is
-  via Bank Transfer but you can also pay using my Card Reader, Cash, Cheque or
-  request an Paypal Invoice with link for bank card payment.
+Method of payment: Bank Transfer to be completed prior to session,
+If you do not use online banking, I can send a Paypal invoice, where
+you can use a Debit or Credit card. (I am subject to a fee for this Service).
 
 ### Missed or cancelled appointments
 
 Please to get in touch as soon as possible if you are unable to attend, so I can offer
-the slot to someone else. For less than 24 hours notice I would ask you to pay 50%
-of the session fee.
+the slot to someone else. For less than 24 hours notice the full session fee
+is due.
 
 ### Late arrival
 If you come late to session, I may not be able to see you for longer to make up the
 time, so we might need to have a shorter session.
 
 ## Testimonials
+
+<blockquote>
+<p>
+Bridget helped me through a very dark and difficult time in my life. I can’t
+thank her enough for her guidance and compassion  but also for the way she
+challenged me to see the truth of my situation. I am enjoying life now and
+looking forward to living my life with more self-compassion and patience.
+Thank you.
+</p>
+</blockquote>
+
+_Nov 2022_
 
 <blockquote>
 <p>
