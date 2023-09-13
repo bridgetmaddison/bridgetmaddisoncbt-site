@@ -52,7 +52,7 @@ prescribed for mood management.
 
 ### Fees
 * Initial consultation - brief phone-call, message, email: No charge.
-* £70 per Therapy Hour (55 mins) face to face, 5
+* £75 per Therapy Hour (55 mins) face to face, 5
   minutes for endings, payment, rebooking.
 * To be paid on the day of therapy, before or promptly after the session.
 

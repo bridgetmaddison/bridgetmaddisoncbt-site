@@ -38,7 +38,7 @@ marginwidth="0">Loading...</iframe>
 Sessions can be arranged either face to face or online, depending on your
 preference.
 
-Fees:    £70 per Therapy hour (55 mins) Payment by debit/credit card, bank transfer, or Paypal invoice. To be paid __one the day__ of therapy, before or promptly after the session.
+Fees:    £75 per Therapy hour (55 mins) Payment by debit/credit card, bank transfer, or Paypal invoice. To be paid __one the day__ of therapy, before or promptly after the session.
 
 #### Online therapy
 
