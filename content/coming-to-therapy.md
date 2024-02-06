@@ -77,6 +77,24 @@ time, so we might need to have a shorter session.
 
 <blockquote>
 <p>
+I found it strange that I didn't see how I was changing as I spiralled
+downwards.  It was such a gradual change that it went by unnoticed.  I was
+putting things off that I would normally enjoy doing but decided that I would
+do them when I felt a bit better, I just couldn’t be bothered.  It wasn’t
+until I talked to Bridget that I understood that I needed to do these things
+in order to feel better.  Once I started doing small, little things, then I
+started to feel more like my old self.  I found that I had more energy and
+enthusiasm for the day ahead.
+
+It wasn’t until I had come back up a bit that I realised how shutdown I had
+become.  I can now take the time to enjoy my surroundings, take time to have a
+conversation in the evening instead of disappearing into an Ipad and make time
+to do some ‘me’ things. Thanks very much Bridget, I feel a whole lot better about myself and my situation.
+</p>
+</blockquote>
+
+<blockquote>
+<p>
 Bridget helped me through a very dark and difficult time in my life. I can’t
 thank her enough for her guidance and compassion  but also for the way she
 challenged me to see the truth of my situation. I am enjoying life now and
