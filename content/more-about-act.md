@@ -170,8 +170,7 @@ to individual practice and supportive Supervision. In May 2022, (following
 leading my first Mindfulness for Health 8 week Practice course), I qualified
 as a __Fully Accredited, Breathworks Mindfulness for Health and Breathworks
 Mindfulness for Stress Course Leader__. Breathworks is a member of the
-Federation of Holistic Therapists. I hope to offer these courses locally
-and/or online later this year.
+Federation of Holistic Therapists.
 
 ## Individual Mindfulness Training
 
