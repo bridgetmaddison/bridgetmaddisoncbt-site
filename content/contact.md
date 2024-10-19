@@ -10,19 +10,10 @@ title = "Contact"
 
 +++
 
-**NOTE: No current availability due to full caseload.**
-
-Thank you for taking the time to read through these pages, if you think I may be
-the right person to help you with your difficulties, please contact me now, to
-arrange a brief informal chat at a mutually agreed time. This will give me a
-broad understanding of what you want to work on and whether I can help. It will
-also give you the opportunity to ask any questions and get a sense of whether
-you feel we can work together before committing to your first appointment.
-Feel free to call me, or if you prefer email me a summary of your current 
-problem and we can take it from there. You can also fill out the contact form 
-below.
-
-I will endeavour to get back to you as soon as I can.
+**NOTE: I am no longer taking on new clients as I am retiring from my Clinical
+Practice at the end of November. I have some capacity to offer appointments to
+Clients I have worked with in the past for 'booster' sessions, please contact
+via email or the form below to discuss.**
 
 Phone: **07752 199258**
 
