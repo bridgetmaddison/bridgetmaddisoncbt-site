@@ -10,6 +10,8 @@ title = "Contact"
 
 +++
 
+**NOTE: No current availability due to full caseload.**
+
 Thank you for taking the time to read through these pages, if you think I may be
 the right person to help you with your difficulties, please contact me now, to
 arrange a brief informal chat at a mutually agreed time. This will give me a
